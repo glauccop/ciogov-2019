@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Tarefas_Concluidas">e5af9821db25f304fd0a30cc29961966</data_item>
+        <description>Todas Tarefas Concluidas por mim</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="thumbs-up">4cb020a1db25f304fd0a30cc299619e6</icon>
+        <name>Todas Concluidas</name>
+        <order>20</order>
+        <parent>ae407e15db69b304fd0a30cc29961990</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 22:35:23</sys_created_on>
+        <sys_id>6ab0e0a1db25f304fd0a30cc29961959</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Todas Concluidas</sys_name>
+        <sys_package display_value="CIOGOV" source="x_snc_ciogov">23c50659db65b304fd0a30cc299619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CIOGOV">23c50659db65b304fd0a30cc299619f2</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_6ab0e0a1db25f304fd0a30cc29961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 22:37:17</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=6ab0e0a1db25f304fd0a30cc29961959"/>
+</record_update>

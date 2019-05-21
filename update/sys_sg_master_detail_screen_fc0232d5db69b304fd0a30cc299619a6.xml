@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_detail_screen">
+    <sys_sg_master_detail_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Minhas_Tarefas">4d017e15db69b304fd0a30cc29961955</data_item>
+        <description>Tarefas Associadas a Mim</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="paper-plane">d40232d5db69b304fd0a30cc2996195d</icon>
+        <name>Tarefas Pendentes</name>
+        <order>10</order>
+        <parent>ae407e15db69b304fd0a30cc29961990</parent>
+        <parent_table>sys_sg_folder</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_master_detail_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 14:31:39</sys_created_on>
+        <sys_id>fc0232d5db69b304fd0a30cc299619a6</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Tarefas Pendentes</sys_name>
+        <sys_package display_value="CIOGOV" source="x_snc_ciogov">23c50659db65b304fd0a30cc299619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CIOGOV">23c50659db65b304fd0a30cc299619f2</sys_scope>
+        <sys_update_name>sys_sg_master_detail_screen_fc0232d5db69b304fd0a30cc299619a6</sys_update_name>
+        <sys_updated_by>Abel.tuter</sys_updated_by>
+        <sys_updated_on>2019-05-20 14:47:22</sys_updated_on>
+    </sys_sg_master_detail_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fc0232d5db69b304fd0a30cc299619a6"/>
+</record_update>

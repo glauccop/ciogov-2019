@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_demanda" table="x_snc_ciogov_todas_solicita_es" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_demanda</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Licença IBAMA</label>
+            <language>en</language>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9d70a1ddb65b304fd0a30cc2996197c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 12:39:46</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_demanda</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Passe Livre</label>
+            <language>en</language>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>31d70a1ddb65b304fd0a30cc2996197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 11:27:23</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_demanda</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1a via Carteira de Trabalho</label>
+            <language>en</language>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1d70a1ddb65b304fd0a30cc29961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 11:27:23</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_demanda</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Certificado de Vacinação</label>
+            <language>en</language>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5d70a1ddb65b304fd0a30cc29961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 11:27:23</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_demanda</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inscrição do ENEM</label>
+            <language>en</language>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79d70a1ddb65b304fd0a30cc29961985</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 11:27:23</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_demanda</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Meu INSS</label>
+            <language>en</language>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 11:27:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3dd70a1ddb65b304fd0a30cc29961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 11:27:23</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_demanda</element>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 11:27:23</sys_created_on>
+            <sys_id>f1d70a1ddb65b304fd0a30cc2996197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_demanda</sys_name>
+            <sys_package display_value="CIOGOV" source="x_snc_ciogov">23c50659db65b304fd0a30cc299619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CIOGOV">23c50659db65b304fd0a30cc299619f2</sys_scope>
+            <sys_update_name>sys_choice_x_snc_ciogov_todas_solicita_es_u_demanda</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 11:27:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

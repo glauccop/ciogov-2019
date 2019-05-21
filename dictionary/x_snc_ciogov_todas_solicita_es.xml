@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Todas Solicitações" max_length="40" name="x_snc_ciogov_todas_solicita_es" sizeclass="16" type="collection">
+        <element label="Assinged to" max_length="32" name="u_assingedto" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" audit="true" choice="1" label="Tipo de Demanda" max_length="40" name="u_demanda" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Licença IBAMA" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Passe Livre" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="1a via Carteira de Trabalho" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Certificado de Vacinação" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Inscrição do ENEM" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Meu INSS" sequence="5" value="6"/>
+            </choice>
+        </element>
+    </element>
+</database>

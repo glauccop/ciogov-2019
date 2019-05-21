@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_assingedto" label="Assinged to" language="en" table="x_snc_ciogov_todas_solicita_es">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_assingedto</element>
+            <help/>
+            <hint/>
+            <label>Assinged to</label>
+            <language>en</language>
+            <name>x_snc_ciogov_todas_solicita_es</name>
+            <plural>Assinged to</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 16:26:19</sys_created_on>
+            <sys_id>e84c8b15db2db304fd0a30cc299619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assinged to</sys_name>
+            <sys_package display_value="CIOGOV" source="x_snc_ciogov">23c50659db65b304fd0a30cc299619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CIOGOV">23c50659db65b304fd0a30cc299619f2</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_ciogov_todas_solicita_es_u_assingedto_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 16:26:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
